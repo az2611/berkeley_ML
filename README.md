@@ -34,4 +34,6 @@ After reviewing bar coupons, I decided to analyze "Coffee House" coupons.
 • Single people and people with a married partner, between 21 and 31 make 42% of people who accepted coupons for Coffee House.     
 • People in their 20's with income less than $50,000 have a much higher propensity to accept the coupon for a coffee house (Figure 10).  
 • In general, men in their 20's have a much higher tendency to accept the coupon for Coffee House than women (Figure 11).  
-• Women in their 20s making less than $12,500 and men making more than $100,000 represent the majority of consumers who accepted and used a Coffee House coupon.	  
+• Women in their 20s making less than $12,500 and men making more than $100,000 represent the majority of consumers who accepted and used a Coffee House coupon.	
+
+Additional analysis could be performed to understand the influence of companions, education and temperature. Another key aspect could be to understand the impact timing in the acceptance of the coupon.
