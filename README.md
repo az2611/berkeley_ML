@@ -7,7 +7,7 @@ Module 5 Report
 Link: https://github.com/az2611/berkeley_ML  
 All Figures can be found in the Folder /figs   
 Assigment was executed using https://colab.research.google.com/  
-The committed file provides a link to the google colab notebook used. TO RUN IT DATA SHOULD BE SAVED IN GOOGLE DRIVE.
+The committed file provides a link to the google colab notebook used. TO RUN THE NOTEBOOK THE DATA SHOULD BE SAVED IN GOOGLE DRIVE.
 
 • Roughly 57% of total observations accepted coupons.  
 • Roughly 41% of bar coupons were accepted.   
